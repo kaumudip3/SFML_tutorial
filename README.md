@@ -5,7 +5,7 @@ Features  :
 - Tree branches appear at random
 - pause/start game : Space Key
 - Stop game : Esc Key
-- Player dies is hit by a branch
+- Player dies when hit by a branch
 
 # Visual Studio Dev Env setting for SFML
 - Install SFML ( I used SFML 2.4.0)
